@@ -27,32 +27,6 @@ Built with **Create React App**, deployed on **Vercel**.
   - Best use cases explained in simple terms  
 
 
-## Getting Started
-
-Clone and install dependencies:
-
-git clone <your-repo-url>
-cd pathfinding-visualizer
-npm install
-
-Run the app locally:
-
-npm start
-
-
-Open [http://localhost:3000](http://localhost:3000) to view in the browser.
-
-## Deployment
-
-This project is optimized for deployment on **Vercel**.
-
-To deploy:
-
-npm run build
-
-Then push your code to GitHub and import the repo into [Vercel](https://vercel.com).
-
-
 ## Preview
 https://path-finding-algorithms-ten.vercel.app/
 

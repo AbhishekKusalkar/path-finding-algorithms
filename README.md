@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+# 🚀 Pathfinding Visualizer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An interactive **React application** that visualizes popular pathfinding algorithms step by step.  
+Built with **Create React App**, deployed on **Vercel**.  
 
-## Available Scripts
+## ✨ Features
+- 🎯 **Algorithms Supported**  
+  - Dijkstra’s Algorithm (weighted, shortest path)  
+  - A* Search (weighted, heuristic-based)  
+  - Breadth-First Search (BFS, unweighted, shortest path)  
+  - Depth-First Search (DFS, unweighted, exploratory)  
 
-In the project directory, you can run:
+- 🖥 **Dynamic UI**
+  - Algorithm selector with descriptions  
+  - Speed control for visualization  
+  - Toggle walls & weights  
+  - Random maze generator  
 
-### `npm start`
+- 🎨 **Visualization**
+  - Step-by-step animation of visited nodes  
+  - Highlighted shortest path  
+  - Smooth transitions and interactive grid  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 📚 **Sidebar Info Panel**
+  - Shows how each algorithm works  
+  - Best use cases explained in simple terms  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🔧 Getting Started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Clone and install dependencies:
 
-### `npm run build`
+```bash
+git clone <your-repo-url>
+cd pathfinding-visualizer
+npm install
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Run the app locally:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+npm start
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Open [http://localhost:3000](http://localhost:3000) to view in the browser.
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🚀 Deployment
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This project is optimized for deployment on **Vercel**.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+To deploy:
+```bash
+npm run build
+```
+Then push your code to GitHub and import the repo into [Vercel](https://vercel.com).
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## 📸 Preview
+https://path-finding-algorithms-ten.vercel.app/
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+✅ This README will make your project look professional and clear on GitHub/Vercel.

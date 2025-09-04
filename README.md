@@ -30,6 +30,3 @@ Built with **Create React App**, deployed on **Vercel**.
 ## Preview
 https://path-finding-algorithms-ten.vercel.app/
 
-
-
-This README will make your project look professional and clear on GitHub/Vercel.

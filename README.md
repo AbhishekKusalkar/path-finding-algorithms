@@ -1,3 +1,4 @@
+# Welcome to my new Data structure and algorithm project Created in React.
 # 🚀 Pathfinding Visualizer
 
 An interactive **React application** that visualizes popular pathfinding algorithms step by step.  
